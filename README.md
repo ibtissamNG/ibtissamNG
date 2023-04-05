@@ -3,7 +3,8 @@
 <br>
 <img align="right" alt="img" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"
 
-- 🔭 I’m currently studying at National School Of Applied Sciences Oujda - ENSAO
+- 🔭 I'm studying at National School Of Applied Sciences Oujda - ENSAO
+- 🌱 I’m currently learning new technologies
 - 📫 Reach me out at my **[mail](ibtissamneggaoui11@gmail.com)**
 - ⚡ **It's never too late to learn something new**
 
